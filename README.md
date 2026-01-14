@@ -516,7 +516,6 @@ Run the file using `python lib/debug.py`, then try querying the table in the
 for the accounting department.
 
 ### Update and delete methods
-
 | Method        | Return | Description                                   |
 | ------------- | ------ | --------------------------------------------- |
 | update(self)  | None   | Update an object's corresponding table row    |
